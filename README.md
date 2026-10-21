@@ -100,4 +100,4 @@ Project Folder/
 ```
 
 ## Author
-Add your name here.
+Meet Prajapati # Visualizer
